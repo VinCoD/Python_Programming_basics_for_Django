@@ -1,1 +1,1 @@
-# Python_Programming_basics_for_Django
+# Python Programming basics for Django
